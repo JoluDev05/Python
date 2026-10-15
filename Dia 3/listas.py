@@ -13,4 +13,4 @@ lista_letras.sort() #Ordena la lista de menor a mayor
 print(lista_letras)
 
 lista_letras.reverse() #Invierte el orden de la lista
-print(lista_letras)
+print(lista_letras) 
